@@ -40,7 +40,7 @@ My passion extends beyond traditional roles. As an entrepreneur, I'm always eage
 📚 Knowledge Sharing:
 I believe in the power of community and openly share my insights and experiences on Notion, spanning various tech domains.
 🔗 Let's Connect:
-
+ 
 Let's innovate together in the world of banking and technology: omarelhachimi97@gmail.com
 LinkedIn: https://www.linkedin.com/in/omar-el-hachimi-b48286158/
 
@@ -60,7 +60,7 @@ A seasoned Software Engineer, I navigate through coding, system design, and secu
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Your Name's GitHub Profile</title>
+    <title>Omar</title>
 </head>
 <body>
 

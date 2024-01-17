@@ -64,7 +64,7 @@ A seasoned Software Engineer, I navigate through coding, system design, and secu
 </head>
 <body>
 
-<h2>[Your Name]: Software Engineer, DevSecOps Expert, and Tech Explorer</h2>
+<h2> Software Engineer, DevSecOps Expert, and Tech Explorer</h2>
 
 <section>
     <h3>🚀 A Glimpse Into My World:</h3>

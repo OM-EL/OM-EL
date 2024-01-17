@@ -99,24 +99,13 @@ A seasoned Software Engineer, I navigate through coding, system design, and secu
 
 <section>
     <h3>🔗 Let's Connect:</h3>
-    <p>Explore technology, discuss potential collaborations, or just say hello: <a href="mailto:your-email@gmail.com">your-email@gmail.com</a></p>
-    <p>LinkedIn: <a href="https://www.linkedin.com/in/yourLinkedInProfile">[@yourLinkedInProfile]</a></p>
+    <p>Explore technology, discuss potential collaborations, or just say hello: <a href="omarelhachimi97@gmail.com">omarelhachimi97@gmail.com</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/omar-el-hachimi-b48286158/">[@Omar]</a></p>
 </section>
 
 </body>
 </html>
 
-
-<h3 align="left">🎓 Certifications:</h3>
-<p align="left">
-AWS Certified Cloud Practitioner | Certified Kubernetes Administrator | AWS Certified Solutions Architect - Associate | Azure Fundamentals | Preparing for CKS
-</p>
-
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/[YourLinkedInProfile]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[YourLinkedInProfile]" height="30" width="40" /></a>
-<!-- Additional social media links -->
-</p>
 
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">

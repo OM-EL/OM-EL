@@ -58,11 +58,6 @@ A seasoned Software Engineer, I navigate through coding, system design, and secu
 </p>
 
 <!DOCTYPE html>
-<html>
-<head>
-    Hello i am Omar
-</head>
-<body>
 
 <h2> Software Engineer, DevSecOps Expert, and Tech Explorer</h2>
 
@@ -100,7 +95,7 @@ A seasoned Software Engineer, I navigate through coding, system design, and secu
 <section>
     <h3>🔗 Let's Connect:</h3>
     <p>Explore technology, discuss potential collaborations, or just say hello: <a href="omarelhachimi97@gmail.com">omarelhachimi97@gmail.com</a></p>
-    <p>LinkedIn: <a href="https://www.linkedin.com/in/omar-el-hachimi-b48286158/">[@Omar]</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/omar-el-hachimi-b48286158/">[LinkedinProfil]</a></p>
 </section>
 
 </body>

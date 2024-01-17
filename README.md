@@ -47,39 +47,30 @@ LinkedIn: https://www.linkedin.com/in/omar-el-hachimi-b48286158/
 -->
 
 
-
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A Versatile Software Engineer and Tech Explorer</h3>
+<h3 align="center">DevSecOps Engineer | Software Engineering Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=[YourGitHubUsername]&label=Profile%20views&color=0e75b6&style=flat" alt="[YourGitHubUsername]" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OM-EL&label=Profile%20views&color=0e75b6&style=flat" alt="OM-EL" /> </p>
 
-<h3 align="left">About Me:</h3>
+<h3 align="left">🌟 About Me:</h3>
 <p align="left">
-I'm a Software Engineer whose expertise spans across various domains from gaming and system design to security and optimization. Currently, I'm a DevSecOps Engineer at a bank in Paris, blending development, security, and operations in the financial sector. With a background in telecommunications, e-commerce, and social media advertising, I bring a rich tapestry of experiences to my role. Entrepreneurial at heart, I'm always ready for new tech adventures.
+A seasoned Software Engineer, I navigate through coding, system design, and security optimization. At a Paris bank, I unite development, security, and operations. My experience spans telecommunications, e-commerce, and advertising, feeding my entrepreneurial spirit and love for tech innovation.
 </p>
 
-<h3 align="left">Certifications & Learning:</h3>
+<h3 align="left">🎓 Certifications:</h3>
 <p align="left">
-- AWS Certified Cloud Practitioner<br>
-- Certified Kubernetes Administrator<br>
-- AWS Certified Solutions Architect - Associate<br>
-- Azure Fundamentals<br>
-- Preparing for Certified Kubernetes Security Specialist (CKS)
+AWS Certified Cloud Practitioner | Certified Kubernetes Administrator | AWS Certified Solutions Architect - Associate | Azure Fundamentals | Preparing for CKS
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/[YourTwitterHandle]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[YourTwitterHandle]" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/[YourLinkedInProfile]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[YourLinkedInProfile]" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/[YourStackOverflowProfile]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="[YourStackOverflowProfile]" height="30" width="40" /></a>
-<a href="https://medium.com/[YourMediumProfile]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="[YourMediumProfile]" height="30" width="40" /></a>
-<a href="https://discord.gg/[YourDiscord]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="[YourDiscord]" height="30" width="40" /></a>
+<!-- Additional social media links -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
-<!-- Add icons of languages and tools you use -->
+<!-- Icons of languages and tools -->
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[YourGitHubUsername]&show_icons=true&locale=en&layout=compact" alt="[YourGitHubUsername]" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OM-EL&show_icons=true&locale=en&layout=compact" alt="OM-EL" /></p>

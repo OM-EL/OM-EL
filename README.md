@@ -47,7 +47,7 @@ LinkedIn: https://www.linkedin.com/in/omar-el-hachimi-b48286158/
 -->
 
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">DevSecOps Engineer | Software Engineering Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OM-EL&label=Profile%20views&color=0e75b6&style=flat" alt="OM-EL" /> </p>

@@ -1,110 +1,143 @@
+<div align="center">
+
 # Omar EL HACHIMI
 
-**Generative AI Engineer** · AI Governance · Cloud & DevOps
+**Generative AI Engineer** | AI Governance | Cloud Architecture
 
-Paris, France
+*Building sovereign AI platforms for enterprise at scale*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-el-hachimi-b48286158/)
-[![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white)](mailto:oelhachi@gmail.com)
-[![Kastor.AI](https://img.shields.io/badge/Kastor.AI-000000?style=flat&logo=google-chrome&logoColor=white)](https://gen-report.duckdns.org/)
+Paris, France 🇫🇷
+
+<br>
+
+[LinkedIn](https://www.linkedin.com/in/omar-el-hachimi-b48286158/) · [Email](mailto:oelhachi@gmail.com) · [Kastor.AI](https://gen-report.duckdns.org/)
+
+</div>
+
+<br>
 
 ---
+
+<br>
 
 ## About
 
-Generative AI Engineer with a strong background in building, deploying, and securing large-scale software systems. Currently leading the AI4IT initiative at LCL (Crédit Lyonnais), where I architect and deploy a sovereign GenAI platform supporting 90+ internal teams.
+I lead the **AI4IT initiative** at **Crédit Lyonnais (LCL)**, architecting and deploying a sovereign Generative AI platform that serves **90+ internal teams**. My work focuses on building secure, compliant, and scalable AI systems for enterprise environments.
 
-**Current Focus:**
-- Enterprise GenAI Platform Architecture
-- RAG Implementation & Optimization
-- AI Governance & EU AI ACT Compliance
-- LLM Orchestration & Prompt Engineering
+With 7+ years of experience across fintech, telecom, and advertising, I bridge the gap between cutting-edge AI capabilities and production-ready enterprise solutions.
 
----
+<br>
 
-## Featured Project
+## What I'm Building
 
-### [Kastor.AI](https://gen-report.duckdns.org/)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-AI-powered report generation platform for intelligent document processing and analysis.
+### 🏦 Enterprise GenAI Platform
+**LCL · 2023 - Present**
 
-**Capabilities:** Automated Report Generation · AI-Powered Analysis · Custom Templates · Enterprise Security
+A sovereign "Custom GPTs" platform enabling self-service AI chatbot creation across the organization.
 
----
+- RAG systems with Confluence & Jira integration
+- Text-to-SQL assistants for data teams
+- DevOps AI helpers (K8sGPT, CVE analysis)
+- Full EU AI ACT compliance & RBAC
 
-## Experience
+</td>
+<td width="50%" valign="top">
 
-**Generative AI Engineer** · Crédit Lyonnais (LCL) · 2023 - Present
-- Architecting sovereign GenAI platform serving 90+ teams
-- Implementing RAG systems, Text-to-SQL, and DevOps AI assistants
-- Leading AI governance and EU AI ACT compliance initiatives
-- Driving GitHub Copilot adoption with ROI analysis
+### 🎯 [Kastor.AI](https://gen-report.duckdns.org/)
+**Personal Project**
 
-**DevOps Engineer** · SoLocal · 2022 - 2023
-- CI/CD pipelines and Kubernetes infrastructure
-- BigQuery data transformation and Cloud Functions
+AI-powered report generation platform transforming raw data into polished, professional documents.
 
-**Backend Engineer** · Orange · 2020 - 2022
-- Cloud migration and SaaS transformation
-- Event-driven architecture with Apache Flink
+- Automated intelligent report generation
+- RAG-based document analysis
+- Custom templates & branding
+- Enterprise-grade security
 
-**Full Stack Developer** · Worldline · 2018 - 2020
-- ETL pipelines and Data Lake architecture
-- Reporting APIs and dashboards
+**[→ Try the demo](https://gen-report.duckdns.org/)**
 
----
+</td>
+</tr>
+</table>
 
-## Technical Skills
+<br>
 
-**Generative AI**
-LangChain · LlamaIndex · CrewAI · OpenAI · AWS Bedrock · Vertex AI · ChromaDB · RAG · Prompt Engineering
+## Career
 
-**Cloud & DevOps**
-AWS · GCP · Azure · Kubernetes · Docker · Terraform · ArgoCD · GitLab CI/CD · Prometheus
+| Role | Company | Period | Focus |
+|------|---------|--------|-------|
+| **Generative AI Engineer** | Crédit Lyonnais | 2023 → | GenAI Platform · RAG · AI Governance |
+| **DevOps Engineer** | SoLocal | 2022 → 2023 | Kubernetes · BigQuery · CI/CD |
+| **Backend Engineer** | Orange | 2020 → 2022 | Cloud Migration · Event-Driven Architecture |
+| **Full Stack Developer** | Worldline | 2018 → 2020 | ETL · Data Lake · Reporting Systems |
 
-**Languages & Frameworks**
-Python · Java · JavaScript · Spring Boot · FastAPI · Solidity
+<br>
 
-**Security & Monitoring**
-SonarQube · HashiCorp Vault · OPA · Dynatrace · Grafana
+## Expertise
 
----
+```
+GENERATIVE AI        LangChain · LlamaIndex · CrewAI · OpenAI · AWS Bedrock · Vertex AI
+                     ChromaDB · Colpali · RAG · Prompt Engineering · LLM Orchestration
+                     Langsmith · Langfuse · Guardrails · DeepEval · Ragas
+
+CLOUD                AWS · GCP · Azure · Kubernetes · Docker · Terraform
+                     ArgoCD · GitLab CI/CD · Jenkins · Prometheus · Grafana
+
+DEVELOPMENT          Python · Java · JavaScript · Spring Boot · FastAPI · Solidity
+
+SECURITY             HashiCorp Vault · OPA · SonarQube · Fortify · CIS Benchmarks
+```
+
+<br>
 
 ## Certifications
 
-| Certification | Issuer |
-|---------------|--------|
-| Certified Kubernetes Administrator (CKA) | CNCF |
-| Certified Kubernetes Security Specialist (CKS) | CNCF |
-| AWS Solutions Architect – Associate | AWS |
-| AWS Machine Learning Engineer – Associate | AWS |
-| AWS Cloud Practitioner | AWS |
-| AI Governance Professional | IAPP |
-| GitHub Copilot Certification | Microsoft |
-| Blockchain Developer | Alyra |
+<table>
+<tr>
+<td><strong>Kubernetes</strong></td>
+<td>CKA · CKS</td>
+</tr>
+<tr>
+<td><strong>AWS</strong></td>
+<td>Solutions Architect · ML Engineer · Cloud Practitioner</td>
+</tr>
+<tr>
+<td><strong>AI & Governance</strong></td>
+<td>IAPP AI Governance Professional · GitHub Copilot</td>
+</tr>
+<tr>
+<td><strong>Blockchain</strong></td>
+<td>Alyra Blockchain Developer</td>
+</tr>
+</table>
 
----
+<br>
 
 ## Education
 
-**Engineering Degree in Information Systems** · Polytech Tours · 2019
+**Polytech Tours** · Engineering Degree in Information Systems · 2019
 
-**Classes Préparatoires (Mathematics)** · 2016
+**Classes Préparatoires** · Mathematics · 2016
 
----
-
-## GitHub Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=OM-EL&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OM-EL&layout=compact&theme=graywhite&hide_border=true"/>
-</p>
+<br>
 
 ---
 
-## Contact
+<br>
 
-📧 oelhachi@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/omar-el-hachimi-b48286158/)  
-🌐 [Kastor.AI](https://gen-report.duckdns.org/)  
-📍 Paris, France
+<div align="center">
+
+### Let's Connect
+
+I'm always interested in discussing **enterprise AI architecture**, **RAG implementations**, and **AI governance frameworks**.
+
+**[oelhachi@gmail.com](mailto:oelhachi@gmail.com)**
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=OM-EL&show_icons=true&theme=default&hide_border=true&hide_title=true&icon_color=000&text_color=000&bg_color=fff" height="150"/>
+
+</div>

@@ -8,13 +8,13 @@
   
   <br/>
   
-  <a href="https://github.com/oelhachi?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/oelhachi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  <a href="https://github.com/OM-EL?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/OM-EL?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
-  <a href="https://github.com/oelhachi?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/oelhachi?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  <a href="https://github.com/OM-EL?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/OM-EL?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=oelhachi&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=OM-EL&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
   
 </div>
 
@@ -53,11 +53,7 @@ class OmarElHachimi:
 <div align="center">
   <h2>🐍 My Contributions</h2>
   <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/OM-EL/OM-EL/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -66,20 +62,20 @@ class OmarElHachimi:
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <a href="https://github.com/oelhachi">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oelhachi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oelhachi&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/OM-EL">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OM-EL&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OM-EL&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oelhachi&theme=algolia&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OM-EL&theme=algolia&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <!-- TROPHIES -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=oelhachi&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=OM-EL&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1"/>
   </a>
 </p>
 
@@ -262,7 +258,7 @@ timeline
   <a href="https://linkedin.com/in/omarelhachimi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/oelhachi">
+  <a href="https://github.com/OM-EL">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -278,7 +274,7 @@ timeline
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oelhachi&theme=react-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OM-EL&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </p>
 
 <!-- FOOTER -->

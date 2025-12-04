@@ -34,6 +34,22 @@
 
 <br/>
 
+<!-- ANIMATED TYPING -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%E2%9A%A1+Building+Sovereign+AI+for+Banking;%F0%9F%8F%97%EF%B8%8F+AI4IT+Initiative+%7C+90%2B+Teams+Served;%F0%9F%9B%A1%EF%B8%8F+EU+AI+ACT+Compliant+%7C+Enterprise+Grade;%F0%9F%94%AE+From+LLMs+to+Production+in+Weeks" alt="Typing SVG" />
+</a>
+
+<!-- CREDIBILITY BAR -->
+<p>
+  <img src="https://img.shields.io/badge/AI4IT_Teams-90%2B-00d9ff?style=flat&labelColor=0d1117&color=00d9ff"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/GenAI_Projects_in_Prod-10%2B-22c55e?style=flat&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Regulated_Industry-Banking_%26_Telco-7C3AED?style=flat&labelColor=0d1117"/>
+</p>
+
+<br/>
+
 <!-- BADGES ROW -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=OM-EL&style=for-the-badge&color=00d9ff&label=VISITORS"/>
@@ -157,6 +173,12 @@ fun_fact: |
   <img src="https://skillicons.dev/icons?i=python,kubernetes,aws,docker&theme=dark"/>
 </p>
 
+> **Outcome:** Internal users go from *idea → usable GenAI tool* in days instead of months, with security and compliance baked in.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,kubernetes,aws,docker&theme=dark"/>
+</p>
+
 </td>
 <td width="50%" valign="top">
 
@@ -180,8 +202,7 @@ fun_fact: |
 ║  🧠 RAG-Powered Analysis         ║
 ║  📄 PDF, DOCX, HTML Export       ║
 ║  🎨 Custom Branding              ║
-║  🔒 Enterprise Security          ║
-╚══════════════════════════════════╝
+║  🔒 Enterprise Security          ╚══════════════════════════════════╝
 ```
 
 <p align="center">
@@ -191,6 +212,12 @@ fun_fact: |
 <p align="center">
   <a href="https://gen-report.duckdns.org/"><b>👉 Try the Live Demo</b></a>
 </p>
+
+> **Outcome:** Analysts and managers save hours per report, while leadership gets **consistent, on-brand** insights across teams.
+
+</td>
+</tr>
+</table>
 
 > **Outcome:** Analysts and managers save hours per report, while leadership gets **consistent, on-brand** insights across teams.
 
@@ -314,6 +341,34 @@ fun_fact: |
 ![Alyra](https://img.shields.io/badge/Alyra_Blockchain-6B5B95?style=for-the-badge)
 
 </div>
+
+---
+
+<h2 align="center">
+  🧩 How I Build GenAI in Enterprises
+</h2>
+
+<div align="center">
+
+```mermaid
+flowchart LR
+  A[Business Problem] --> B[Discovery<br/>Stakeholders & Constraints]
+  B --> C[Data & Systems Mapping<br/>Confluence · Jira · APIs]
+  C --> D[Solution Design<br/>RAG · Agents · Workflows]
+  D --> E[Safety & Governance<br/>Policies · Guardrails · Audit]
+  E --> F[Implementation<br/>APIs · Services · UI]
+  F --> G[Productionization<br/>K8s · CI/CD · Observability]
+  G --> H[Feedback Loop<br/>Usage · Drift · New Ideas]
+```
+
+</div>
+
+<p align="center">
+  <i>
+    I treat GenAI like any other critical system:<br/>
+    small slices in prod, guardrails first, brutal feedback from real users.
+  </i>
+</p>
 
 ---
 

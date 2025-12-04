@@ -1,143 +1,114 @@
 <div align="center">
+  
+# 🚀 Omar EL HACHIMI
 
-# Omar EL HACHIMI
+### Generative AI Engineer | AI Governance Specialist | Cloud & DevOps Expert
 
-**Generative AI Engineer** | AI Governance | Cloud Architecture
+<!--
+**OM-EL/OM-EL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-*Building sovereign AI platforms for enterprise at scale*
+Here are some ideas to get you started:
 
-Paris, France 🇫🇷
+- 🔭 At the heart of LCL, I blend DevOps with security, ensuring robust and secure systems in the dynamic world of banking.
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
-<br>
+- 🚀 A Glimpse Into My World:
+As a Software Engineer, my expertise has no bounds - from crafting immersive gaming experiences to optimizing system design and bolstering security.
+Currently thriving as a DevSecOps Engineer at a leading bank in Paris, where I blend development, security, and operations to strengthen financial technologies.
 
-[LinkedIn](https://www.linkedin.com/in/omar-el-hachimi-b48286158/) · [Email](mailto:oelhachi@gmail.com) · [Kastor.AI](https://gen-report.duckdns.org/)
 
-</div>
 
-<br>
+🌐 Rich Tapestry of Experiences:
+My journey in software has taken me through telecommunications, e-commerce, and social media advertising, each step reinforcing my versatile skill set.
+At the heart of each role lies a constant: a profound commitment to software engineering excellence.
 
----
 
-<br>
+📈 Entrepreneurial At Heart:
+My passion extends beyond traditional roles. As an entrepreneur, I'm always eager for new adventures and opportunities to innovate in the tech space.
 
-## About
 
-I lead the **AI4IT initiative** at **Crédit Lyonnais (LCL)**, architecting and deploying a sovereign Generative AI platform that serves **90+ internal teams**. My work focuses on building secure, compliant, and scalable AI systems for enterprise environments.
+🎓 Proudly Certified & Always Learning:
+- AWS Certified Cloud Practitioner
+- Certified Kubernetes Administrator
+- AWS Certified Solutions Architect - Associate
+- Azure Fundamentals
+- On the path to achieving the Certified Kubernetes Security Specialist (CKS).
 
-With 7+ years of experience across fintech, telecom, and advertising, I bridge the gap between cutting-edge AI capabilities and production-ready enterprise solutions.
 
-<br>
+📚 Knowledge Sharing:
+I believe in the power of community and openly share my insights and experiences on Notion, spanning various tech domains.
+🔗 Let's Connect:
+ 
+Let's innovate together in the world of banking and technology: omarelhachimi97@gmail.com
+LinkedIn: https://www.linkedin.com/in/omar-el-hachimi-b48286158/
 
-## What I'm Building
+-->
 
-<table>
-<tr>
-<td width="50%" valign="top">
 
-### 🏦 Enterprise GenAI Platform
-**LCL · 2023 - Present**
+<h1 align="center">Hi 👋, I'm Omar</h1>
+<h3 align="center">DevSecOps Engineer | Software Engineering Enthusiast</h3>
 
-A sovereign "Custom GPTs" platform enabling self-service AI chatbot creation across the organization.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OM-EL&label=Profile%20views&color=0e75b6&style=flat" alt="OM-EL" /> </p>
 
-- RAG systems with Confluence & Jira integration
-- Text-to-SQL assistants for data teams
-- DevOps AI helpers (K8sGPT, CVE analysis)
-- Full EU AI ACT compliance & RBAC
+<h3 align="left">🌟 About Me:</h3>
+<p align="left">
+A seasoned Software Engineer, I navigate through coding, system design, and security optimization. At a Paris bank, I unite development, security, and operations. My experience spans telecommunications, e-commerce, and advertising, feeding my entrepreneurial spirit and love for tech innovation.
+</p>
 
-</td>
-<td width="50%" valign="top">
+<!DOCTYPE html>
 
-### 🎯 [Kastor.AI](https://gen-report.duckdns.org/)
-**Personal Project**
+<h2> Software Engineer, DevSecOps Expert, and Tech Explorer</h2>
 
-AI-powered report generation platform transforming raw data into polished, professional documents.
+<section>
+    <h3>🚀 A Glimpse Into My World:</h3>
+    <p>As a Software Engineer, my expertise has no bounds - from crafting immersive gaming experiences to optimizing system design and bolstering security. Currently thriving as a DevSecOps Engineer at a leading bank in Paris, where I blend development, security, and operations to strengthen financial technologies.</p>
+</section>
 
-- Automated intelligent report generation
-- RAG-based document analysis
-- Custom templates & branding
-- Enterprise-grade security
+<section>
+    <h3>🌐 Rich Tapestry of Experiences:</h3>
+    <p>My journey in software has taken me through telecommunications, e-commerce, and social media advertising, each step reinforcing my versatile skill set. At the heart of each role lies a constant: a profound commitment to software engineering excellence.</p>
+</section>
 
-**[→ Try the demo](https://gen-report.duckdns.org/)**
+<section>
+    <h3>📈 Entrepreneurial At Heart:</h3>
+    <p>My passion extends beyond traditional roles. As an entrepreneur, I'm always eager for new adventures and opportunities to innovate in the tech space.</p>
+</section>
 
-</td>
-</tr>
-</table>
+<section>
+    <h3>🎓 Proudly Certified & Always Learning:</h3>
+    <ul>
+        <li>AWS Certified Cloud Practitioner</li>
+        <li>Certified Kubernetes Administrator</li>
+        <li>AWS Certified Solutions Architect - Associate</li>
+        <li>Azure Fundamentals</li>
+        <li>On the path to achieving the Certified Kubernetes Security Specialist (CKS).</li>
+    </ul>
+</section>
 
-<br>
+<section>
+    <h3>📚 Knowledge Sharing:</h3>
+    <p>I believe in the power of community and openly share my insights and experiences on Notion, spanning various tech domains.</p>
+</section>
 
-## Career
+<section>
+    <h3>🔗 Let's Connect:</h3>
+    <p>Explore technology, discuss potential collaborations, or just say hello: <a href="omarelhachimi97@gmail.com">omarelhachimi97@gmail.com</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/omar-el-hachimi-b48286158/">[LinkedinProfil]</a></p>
+</section>
 
-| Role | Company | Period | Focus |
-|------|---------|--------|-------|
-| **Generative AI Engineer** | Crédit Lyonnais | 2023 → | GenAI Platform · RAG · AI Governance |
-| **DevOps Engineer** | SoLocal | 2022 → 2023 | Kubernetes · BigQuery · CI/CD |
-| **Backend Engineer** | Orange | 2020 → 2022 | Cloud Migration · Event-Driven Architecture |
-| **Full Stack Developer** | Worldline | 2018 → 2020 | ETL · Data Lake · Reporting Systems |
+</body>
+</html>
 
-<br>
 
-## Expertise
+<h3 align="left">💻 Languages and Tools:</h3>
+<p align="left">
+<!-- Icons of languages and tools -->
+</p>
 
-```
-GENERATIVE AI        LangChain · LlamaIndex · CrewAI · OpenAI · AWS Bedrock · Vertex AI
-                     ChromaDB · Colpali · RAG · Prompt Engineering · LLM Orchestration
-                     Langsmith · Langfuse · Guardrails · DeepEval · Ragas
-
-CLOUD                AWS · GCP · Azure · Kubernetes · Docker · Terraform
-                     ArgoCD · GitLab CI/CD · Jenkins · Prometheus · Grafana
-
-DEVELOPMENT          Python · Java · JavaScript · Spring Boot · FastAPI · Solidity
-
-SECURITY             HashiCorp Vault · OPA · SonarQube · Fortify · CIS Benchmarks
-```
-
-<br>
-
-## Certifications
-
-<table>
-<tr>
-<td><strong>Kubernetes</strong></td>
-<td>CKA · CKS</td>
-</tr>
-<tr>
-<td><strong>AWS</strong></td>
-<td>Solutions Architect · ML Engineer · Cloud Practitioner</td>
-</tr>
-<tr>
-<td><strong>AI & Governance</strong></td>
-<td>IAPP AI Governance Professional · GitHub Copilot</td>
-</tr>
-<tr>
-<td><strong>Blockchain</strong></td>
-<td>Alyra Blockchain Developer</td>
-</tr>
-</table>
-
-<br>
-
-## Education
-
-**Polytech Tours** · Engineering Degree in Information Systems · 2019
-
-**Classes Préparatoires** · Mathematics · 2016
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-### Let's Connect
-
-I'm always interested in discussing **enterprise AI architecture**, **RAG implementations**, and **AI governance frameworks**.
-
-**[oelhachi@gmail.com](mailto:oelhachi@gmail.com)**
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=OM-EL&show_icons=true&theme=default&hide_border=true&hide_title=true&icon_color=000&text_color=000&bg_color=fff" height="150"/>
-
-</div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OM-EL&show_icons=true&locale=en&layout=compact" alt="OM-EL" /></p>

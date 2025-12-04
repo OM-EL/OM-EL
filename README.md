@@ -1,167 +1,174 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Generative+AI+Engineer;Architecting+Sovereign+AI;Cloud+%26+Governance+Specialist" alt="Typing SVG" />
-
 # Omar EL HACHIMI
 
-**Building the future of Enterprise AI at Crédit Lyonnais (LCL)**
+### Generative AI Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-el-hachimi-b48286158/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oelhachi@gmail.com)
-[![Kastor.AI](https://img.shields.io/badge/Project-Kastor.AI-black?style=for-the-badge&logo=vercel&logoColor=white)](https://gen-report.duckdns.org/)
+*Architecting sovereign AI platforms for enterprise at scale*
 
-</div>
-
-<br>
-
-## 👨‍💻 Executive Summary
-
-I am a **Generative AI Engineer** with **7+ years** of experience in high-stakes environments (Fintech, Telecom). I specialize in bridging the gap between **cutting-edge AI research** and **production-grade enterprise systems**.
-
-Currently leading the **AI4IT initiative** at **LCL**, I architect sovereign platforms that empower **90+ teams** while adhering to strict **EU AI ACT** compliance and governance standards.
+Paris, France 🇫🇷
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏦 Enterprise GenAI Platform
-**Role:** Lead Architect & Engineer  
-**Context:** Crédit Lyonnais (LCL)
-
-A sovereign, secure "Custom GPTs" ecosystem for banking.
-
-> *Democratizing AI access while maintaining banking-grade security.*
-
-**Key Features:**
-- 🔐 **Sovereign RAG:** Connects to Confluence, Jira, SharePoint.
-- 📊 **Text-to-SQL:** Empowering analysts with natural language data queries.
-- 🛡️ **Compliance:** Full RBAC & EU AI ACT adherence.
-- 🤖 **DevOps Agents:** Automated K8s troubleshooting & CVE analysis.
-
-<br>
-
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Kastor.AI
-**Role:** Creator & Lead Developer  
-**Context:** Personal SaaS Project
-
-An intelligent report generation engine transforming raw data into polished documents.
-
-> *From raw data to boardroom-ready reports in seconds.*
-
-**Key Features:**
-- 📝 **Auto-Reporting:** Structured data to PDF/DOCX.
-- 🧠 **Smart Analysis:** RAG-based insights extraction.
-- 🎨 **Custom Branding:** Enterprise template support.
-- 🔒 **Secure:** Enterprise-grade encryption.
-
-<div align="center">
-
-[**Explore the Demo**](https://gen-report.duckdns.org/)
+[LinkedIn](https://www.linkedin.com/in/omar-el-hachimi-b48286158/) • [Email](mailto:oelhachi@gmail.com) • [Kastor.AI](https://gen-report.duckdns.org/)
 
 </div>
 
 <br>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-1C3C3C?style=flat-square&logo=llamaindex&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+## The Story
+
+I believe **AI should empower, not complicate**. After 7 years building systems across fintech, telecom, and advertising, I found my calling: making enterprise AI accessible, secure, and compliant.
+
+Today, I lead the **AI4IT initiative** at **Crédit Lyonnais (LCL)**, where I've built a sovereign GenAI platform that serves **90+ internal teams**. My mission? Democratize AI capabilities while maintaining the strictest banking-grade security and **EU AI ACT** compliance.
+
+<br>
+
+## What I'm Building
+
+<br>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏦 Enterprise GenAI Platform
+**Crédit Lyonnais • 2023 – Present**
+
+A sovereign "Custom GPTs" ecosystem enabling any team to create AI assistants without writing code.
+
+**The Problem:** Teams needed AI capabilities but couldn't navigate LLM complexity or meet compliance requirements.
+
+**The Solution:**
+- RAG pipelines connecting Confluence, Jira, SharePoint
+- Natural language to SQL for business analysts  
+- K8sGPT integration for DevOps automation
+- Full audit trails & RBAC for compliance
+
+**Impact:** 90+ teams now self-serve AI solutions.
+
+</td>
+<td width="50%">
+
+### 🎯 Kastor.AI
+**Personal Project • [Try Demo →](https://gen-report.duckdns.org/)**
+
+What if generating a professional report was as easy as uploading your data?
+
+**The Problem:** Analysts spend hours formatting data into presentable reports.
+
+**The Solution:**
+- Upload raw data, get polished PDF/DOCX
+- RAG-powered analysis & summarization
+- Custom branding & templates
+- Enterprise-grade security
+
+**Try it:** [gen-report.duckdns.org](https://gen-report.duckdns.org/)
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## 🛠️ Technical Arsenal
+## The Journey
+
+```
+2023 ─────────────────────────────────────────────────────────────────► Present
+│
+│  🚀 GENERATIVE AI ENGINEER @ Crédit Lyonnais
+│     Leading AI4IT initiative. Building sovereign GenAI platform.
+│     LangChain • RAG • LLM Orchestration • EU AI ACT Compliance
+│
+2022 ──────────────────────────────────────────────────────────────────► 2023
+│
+│  ⚙️ DEVOPS ENGINEER @ SoLocal
+│     Kubernetes at scale. BigQuery data pipelines.
+│     Terraform • ArgoCD • Prometheus/Grafana
+│
+2020 ──────────────────────────────────────────────────────────────────► 2022
+│
+│  🔧 BACKEND ENGINEER @ Orange
+│     Cloud migration. Event-driven microservices.
+│     Java • Spring Boot • Kafka • AWS
+│
+2018 ──────────────────────────────────────────────────────────────────► 2020
+│
+│  💻 FULL STACK DEVELOPER @ Worldline
+│     ETL pipelines. Financial reporting systems.
+│     Python • Java • Data Lakes
+│
+```
+
+<br>
+
+## What I Work With
+
+I don't just use tools—I understand when and why to use them.
+
+**For AI Systems**  
+LangChain, LlamaIndex, CrewAI for orchestration. OpenAI, Bedrock, Vertex AI for models. ChromaDB, Pinecone for vectors. Langfuse, Ragas for evaluation.
+
+**For Infrastructure**  
+Kubernetes (CKA & CKS certified). AWS, GCP, Azure. Terraform for IaC. ArgoCD for GitOps.
+
+**For Development**  
+Python is my primary language. FastAPI for APIs. Java/Spring Boot when needed. PostgreSQL, Kafka for data.
+
+**For Security & Governance**  
+HashiCorp Vault for secrets. OPA for policy. EU AI ACT compliance frameworks.
+
+<br>
+
+## Credentials
 
 <table>
-  <tr>
-    <td align="center" width="25%"><b>Generative AI</b></td>
-    <td align="center" width="25%"><b>Cloud & DevOps</b></td>
-    <td align="center" width="25%"><b>Backend</b></td>
-    <td align="center" width="25%"><b>Security</b></td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" width="100%"/>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" width="100%"/>
-      <img src="https://img.shields.io/badge/LlamaIndex-1C3C3C?style=flat-square&logo=llamaindex&logoColor=white" width="100%"/>
-      <img src="https://img.shields.io/badge/RAG_Systems-000000?style=flat-square" width="100%"/>
-      <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square" width="100%"/>
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" width="100%"/>
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" width="100%"/>
-      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" width="100%"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" width="100%"/>
-      <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" width="100%"/>
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" width="100%"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" width="100%"/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" width="100%"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" width="100%"/>
-      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" width="100%"/>
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=white" width="100%"/>
-      <img src="https://img.shields.io/badge/OPA-000000?style=flat-square&logo=open-policy-agent&logoColor=white" width="100%"/>
-      <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" width="100%"/>
-      <img src="https://img.shields.io/badge/EU_AI_ACT-003399?style=flat-square&logo=european-union&logoColor=white" width="100%"/>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+**Certifications**
+
+- **CKA** — Certified Kubernetes Administrator
+- **CKS** — Certified Kubernetes Security Specialist
+- **AWS Solutions Architect** — Associate
+- **AWS ML Engineer** — Associate
+- **IAPP AI Governance Professional**
+- **Alyra Blockchain Developer**
+
+</td>
+<td width="50%">
+
+**Education**
+
+**Polytech Tours** (2016–2019)  
+Engineering Degree in Information Systems
+
+**Classes Préparatoires** (2014–2016)  
+Mathematics & Physics
+
+</td>
+</tr>
 </table>
 
----
-
-## 📈 Career Timeline
-
 <br>
 
-| Period | Role | Company | Impact |
-|:------:|:-----|:--------|:-------|
-| **2023 — Present** | **Generative AI Engineer** | **Crédit Lyonnais** | Architecting sovereign GenAI platform for 90+ teams. |
-| **2022 — 2023** | **DevOps Engineer** | **SoLocal** | Managed K8s clusters & BigQuery data pipelines. |
-| **2020 — 2022** | **Backend Engineer** | **Orange** | Cloud migration & event-driven microservices. |
-| **2018 — 2020** | **Full Stack Developer** | **Worldline** | ETL pipelines & financial reporting systems. |
+## Let's Talk
 
-<br>
+I'm always happy to discuss:
 
----
-
-## 📜 Certifications & Education
+- **Enterprise AI architecture** — How to build GenAI platforms that scale
+- **RAG systems** — Retrieval strategies, chunking, evaluation
+- **AI governance** — EU AI ACT, risk frameworks, compliance
+- **Cloud-native development** — Kubernetes, GitOps, platform engineering
 
 <div align="center">
 
-| **Kubernetes** | **Cloud (AWS)** | **Governance** | **Education** |
-|:---:|:---:|:---:|:---:|
-| ![CKA](https://img.shields.io/badge/CKA-Certified-326CE5?style=flat-square) | ![Solutions Architect](https://img.shields.io/badge/Solutions_Architect-Associate-232F3E?style=flat-square) | ![IAPP](https://img.shields.io/badge/IAPP-AIGP-orange?style=flat-square) | **Polytech Tours** |
-| ![CKS](https://img.shields.io/badge/CKS-Security-326CE5?style=flat-square) | ![ML Engineer](https://img.shields.io/badge/ML_Engineer-Associate-232F3E?style=flat-square) | ![Copilot](https://img.shields.io/badge/GitHub-Copilot-black?style=flat-square) | *Eng. Degree (2019)* |
+<br>
 
-</div>
-
----
-
-<div align="center">
-
-### 📊 GitHub Analytics
-
-<img src="https://github-readme-stats.vercel.app/api?username=OM-EL&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=36BCF7&text_color=000000&icon_color=36BCF7" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=OM-EL&theme=transparent&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" height="160" />
+**[oelhachi@gmail.com](mailto:oelhachi@gmail.com)**
 
 <br>
 
-[**Let's Connect on LinkedIn**](https://www.linkedin.com/in/omar-el-hachimi-b48286158/)
+<img src="https://github-readme-stats.vercel.app/api?username=OM-EL&show_icons=true&theme=default&hide_border=true&hide_title=true&icon_color=000&text_color=000&bg_color=00000000" height="150"/>
 
 </div>

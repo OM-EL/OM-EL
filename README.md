@@ -320,36 +320,6 @@ fun_fact: |
 <!-- GITHUB STATS -->
 
 <h2 align="center">
-  🧩 How I Build GenAI in Enterprises
-</h2>
-
-<div align="center">
-
-```mermaid
-flowchart LR
-  A[Business Problem] --> B[Discovery<br/>Stakeholders & Constraints]
-  B --> C[Data & Systems Mapping<br/>Confluence · Jira · APIs]
-  C --> D[Solution Design<br/>RAG · Agents · Workflows]
-  D --> E[Safety & Governance<br/>Policies · Guardrails · Audit]
-  E --> F[Implementation<br/>APIs · Services · UI]
-  F --> G[Productionization<br/>K8s · CI/CD · Observability]
-  G --> H[Feedback Loop<br/>Usage · Drift · New Ideas]
-```
-
-</div>
-
-<p align="center">
-  <i>
-    I treat GenAI like any other critical system:<br/>
-    small slices in prod, guardrails first, brutal feedback from real users.
-  </i>
-</p>
-
----
-
-<!-- GITHUB STATS -->
-
-<h2 align="center">
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="25"/>
   &nbsp;GitHub Analytics
 </h2>

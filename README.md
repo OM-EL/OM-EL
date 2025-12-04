@@ -1,77 +1,162 @@
 <div align="center">
-  
-# 🚀 Omar EL HACHIMI
 
-### Generative AI Engineer | AI Governance Specialist | Cloud & DevOps Expert
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Omar%20EL%20HACHIMI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-el-hachimi-b48286158/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oelhachi@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=OM-EL&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/OM-EL)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6CE5E8&center=true&vCenter=true&width=940&lines=Generative+AI+Engineer+%F0%9F%A4%96;AI+Governance+Specialist+%F0%9F%94%92;Cloud+%26+DevOps+Expert+%E2%98%81%EF%B8%8F;Building+the+Future+of+Enterprise+AI+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/omar-el-hachimi-b48286158/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:oelhachi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://gen-report.duckdns.org/">
+    <img src="https://img.shields.io/badge/Kastor.AI-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Kastor.AI"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OM-EL&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/OM-EL?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/badge/Paris-France%20%F0%9F%87%AB%F0%9F%87%B7-red?style=for-the-badge" alt="Location"/>
+</p>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 👨‍💻 About Me
+<br>
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```python
-class GenerativeAIEngineer:
+class OmarElHachimi:
     def __init__(self):
+        self.username = "OM-EL"
         self.name = "Omar EL HACHIMI"
         self.role = "Generative AI Engineer"
+        self.company = "Crédit Lyonnais (LCL)"
         self.location = "Paris, France 🇫🇷"
-        self.current_company = "Crédit Lyonnais (LCL)"
-        self.focus_areas = [
-            "Generative AI Platform Architecture",
-            "RAG Implementation & Optimization",
-            "AI Governance & Compliance (EU AI ACT)",
-            "Cloud-Native AI Solutions",
-            "DevSecOps & MLOps"
-        ]
+        self.passion = "Building Intelligent AI Systems"
         
-    def say_hi(self):
+    def get_current_focus(self):
+        return {
+            "🎯 Lead": "AI4IT Initiative @ LCL",
+            "🏗️ Build": "Sovereign GenAI Platform",
+            "👥 Support": "90+ Internal Teams",
+            "🔒 Ensure": "AI Governance & EU AI ACT Compliance",
+            "🚀 Deploy": "Production RAG Systems"
+        }
+    
+    def get_expertise(self):
+        return [
+            "GenAI Platform Architecture",
+            "RAG Implementation & Optimization", 
+            "LLM Orchestration (LangChain, LlamaIndex, CrewAI)",
+            "Cloud-Native Solutions (AWS, GCP, Azure)",
+            "Kubernetes & Container Orchestration",
+            "DevSecOps & MLOps Pipelines"
+        ]
+    
+    def say_hello(self):
         print("Building the future of enterprise AI, one model at a time! 🤖")
 
-me = GenerativeAIEngineer()
-me.say_hi()
+me = OmarElHachimi()
+me.say_hello()
 ```
 
-🔭 **Currently:** Leading the AI4IT initiative at LCL, architecting and deploying a sovereign GenAI platform supporting 90+ internal teams
+<br>
 
-🌱 **Learning:** Advanced RAG techniques, AI Security frameworks, and cutting-edge LLM orchestration patterns
+<details>
+<summary><b>� Professional Journey</b></summary>
+<br>
 
-💡 **Passionate about:** Building scalable AI systems, AI governance, and democratizing AI through secure, self-service platforms
+```mermaid
+%%{init: {'theme':'dark'}}%%
+timeline
+    title Career Progression
+    2018 : Worldline
+         : Full Stack Developer
+         : ETL & Data Lake Architecture
+    2020 : Orange
+         : Backend Engineer
+         : Cloud Migration & SaaS Transformation
+    2022 : SoLocal
+         : DevOps Engineer
+         : BigQuery & Cloud Functions
+    2023 : Crédit Lyonnais (LCL)
+         : Generative AI Engineer
+         : Leading AI4IT Initiative
+```
+
+</details>
 
 ---
 
-## 🎯 What I Do
 
-<table>
-<tr>
-<td width="50%">
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> Tech Arsenal
 
-### 🤖 Generative AI & LLMs
-- **Platform Engineering**: Custom GPT platforms & RAG systems
-- **LLM Orchestration**: LangChain, LlamaIndex, CrewAI
-- **Vector Databases**: ChromaDB, Colpali integration
-- **Observability**: Langsmith, Langfuse, Helicone
-- **Guardrails & Safety**: Implementation of AI safety measures
-- **Model Integration**: OpenAI, AWS Bedrock, Vertex AI, Gemini
+<div align="center">
 
-</td>
-<td width="50%">
+### 🤖 Generative AI & LLM Stack
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+</p>
 
 ### ☁️ Cloud & DevOps
-- **Cloud Platforms**: AWS, GCP, Azure multi-cloud
-- **Container Orchestration**: Kubernetes (CKA certified)
-- **CI/CD**: GitLab, ArgoCD, Jenkins
-- **IaC**: Terraform, Kustomize
-- **Monitoring**: Prometheus, Dynatrace, Grafana
-- **Security**: HashiCorp Vault, OPA, AppArmor
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</p>
 
-</td>
-</tr>
-</table>
+### 💻 Programming & Frameworks
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+</p>
+
+### 🛡️ Security & Monitoring
+<p>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white"/>
+</p>
+
+### 🗄️ Databases & Tools
+<p>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+</div>
 
 ---
 
@@ -94,7 +179,32 @@ me.say_hi()
 
 ## 💼 Featured Projects & Achievements
 
-### 🏦 Enterprise GenAI Platform @ LCL (2023-Present)
+### � Kastor.AI - AI-Powered Report Generation Platform
+> **Intelligent document generation and analysis platform**
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gen-report.duckdns.org/)
+[![Status](https://img.shields.io/badge/Status-Production-success?style=for-the-badge)](https://gen-report.duckdns.org/)
+
+**Kastor.AI** is a cutting-edge generative AI platform designed for automated report generation and intelligent document processing. The platform leverages state-of-the-art LLMs and RAG technology to transform data into comprehensive, professional reports.
+
+**🌟 Key Features:**
+- 📝 **Automated Report Generation**: Transform raw data into polished, professional reports
+- 🤖 **AI-Powered Analysis**: Deep document understanding and intelligent content synthesis
+- 🎯 **Custom Templates**: Flexible report formatting and branding options
+- 🔒 **Secure Processing**: Enterprise-grade security and data protection
+- ⚡ **Real-time Generation**: Fast, efficient document processing pipeline
+
+**🛠️ Tech Stack:**
+- LLM Integration & Prompt Engineering
+- RAG Architecture for context-aware generation
+- Modern web application framework
+- Cloud deployment with DuckDNS
+
+**🔗 [Try Kastor.AI →](https://gen-report.duckdns.org/)**
+
+---
+
+### �🏦 Enterprise GenAI Platform @ LCL (2023-Present)
 > **Building a sovereign AI platform serving 90+ teams**
 
 - 🎯 **Architecture & Leadership**: Designed and deployed a custom "GPTs-like" platform enabling self-service chatbot creation

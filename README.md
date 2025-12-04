@@ -1,114 +1,242 @@
 <div align="center">
-  
-# 🚀 Omar EL HACHIMI
 
-### Generative AI Engineer | AI Governance Specialist | Cloud & DevOps Expert
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                                                               ║
+║                           OMAR EL HACHIMI                                     ║
+║                                                                               ║
+║                      Generative AI Engineer                                   ║
+║                           Paris, France                                       ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
 
-<!--
-**OM-EL/OM-EL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Architecting sovereign AI platforms for enterprise at scale**
 
-Here are some ideas to get you started:
+[Email](mailto:oelhachi@gmail.com) · [LinkedIn](https://www.linkedin.com/in/omar-el-hachimi-b48286158/) · [Kastor.AI](https://gen-report.duckdns.org/)
 
-- 🔭 At the heart of LCL, I blend DevOps with security, ensuring robust and secure systems in the dynamic world of banking.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+</div>
 
-- 🚀 A Glimpse Into My World:
-As a Software Engineer, my expertise has no bounds - from crafting immersive gaming experiences to optimizing system design and bolstering security.
-Currently thriving as a DevSecOps Engineer at a leading bank in Paris, where I blend development, security, and operations to strengthen financial technologies.
+<br>
 
+## Summary
 
+Generative AI Engineer with **7+ years** of experience across fintech, telecom, and digital advertising. Currently leading the **AI4IT initiative** at **Crédit Lyonnais (LCL)**, where I design, build, and deploy a sovereign GenAI platform serving **90+ internal teams**. I specialize in bridging cutting-edge AI research with production-grade enterprise systems — secure, compliant, and built to scale.
 
-🌐 Rich Tapestry of Experiences:
-My journey in software has taken me through telecommunications, e-commerce, and social media advertising, each step reinforcing my versatile skill set.
-At the heart of each role lies a constant: a profound commitment to software engineering excellence.
+<br>
 
+## Featured Projects
 
-📈 Entrepreneurial At Heart:
-My passion extends beyond traditional roles. As an entrepreneur, I'm always eager for new adventures and opportunities to innovate in the tech space.
+<table>
+<tr>
+<td valign="top" width="50%">
 
+### Enterprise GenAI Platform
 
-🎓 Proudly Certified & Always Learning:
-- AWS Certified Cloud Practitioner
-- Certified Kubernetes Administrator
-- AWS Certified Solutions Architect - Associate
-- Azure Fundamentals
-- On the path to achieving the Certified Kubernetes Security Specialist (CKS).
+**Crédit Lyonnais · 2023 – Present**
 
+Sovereign "Custom GPTs" platform enabling self-service AI chatbot creation across the entire organization.
 
-📚 Knowledge Sharing:
-I believe in the power of community and openly share my insights and experiences on Notion, spanning various tech domains.
-🔗 Let's Connect:
- 
-Let's innovate together in the world of banking and technology: omarelhachimi97@gmail.com
-LinkedIn: https://www.linkedin.com/in/omar-el-hachimi-b48286158/
+```
+STATUS        Production
+USERS         90+ teams
+COMPLIANCE    EU AI ACT
+```
 
--->
+**Capabilities:**
 
+- Multi-source RAG with Confluence, Jira, SharePoint
+- Text-to-SQL natural language interface for analysts
+- K8sGPT DevOps assistant with CVE automation
+- Multi-provider LLM orchestration layer
+- Enterprise RBAC & audit logging
+- Real-time evaluation with Langfuse
 
-<h1 align="center">Hi 👋, I'm Omar</h1>
-<h3 align="center">DevSecOps Engineer | Software Engineering Enthusiast</h3>
+**Stack:** `LangChain` `CrewAI` `ChromaDB` `FastAPI` `Kubernetes` `Terraform`
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OM-EL&label=Profile%20views&color=0e75b6&style=flat" alt="OM-EL" /> </p>
+</td>
+<td valign="top" width="50%">
 
-<h3 align="left">🌟 About Me:</h3>
-<p align="left">
-A seasoned Software Engineer, I navigate through coding, system design, and security optimization. At a Paris bank, I unite development, security, and operations. My experience spans telecommunications, e-commerce, and advertising, feeding my entrepreneurial spirit and love for tech innovation.
-</p>
+### Kastor.AI
 
-<!DOCTYPE html>
+**Personal Project · [Live Demo →](https://gen-report.duckdns.org/)**
 
-<h2> Software Engineer, DevSecOps Expert, and Tech Explorer</h2>
+AI-powered platform that transforms raw data into polished, publication-ready reports.
 
-<section>
-    <h3>🚀 A Glimpse Into My World:</h3>
-    <p>As a Software Engineer, my expertise has no bounds - from crafting immersive gaming experiences to optimizing system design and bolstering security. Currently thriving as a DevSecOps Engineer at a leading bank in Paris, where I blend development, security, and operations to strengthen financial technologies.</p>
-</section>
+```
+STATUS        Live
+TYPE          SaaS
+ACCESS        Public Demo
+```
 
-<section>
-    <h3>🌐 Rich Tapestry of Experiences:</h3>
-    <p>My journey in software has taken me through telecommunications, e-commerce, and social media advertising, each step reinforcing my versatile skill set. At the heart of each role lies a constant: a profound commitment to software engineering excellence.</p>
-</section>
+**Capabilities:**
 
-<section>
-    <h3>📈 Entrepreneurial At Heart:</h3>
-    <p>My passion extends beyond traditional roles. As an entrepreneur, I'm always eager for new adventures and opportunities to innovate in the tech space.</p>
-</section>
+- Intelligent report generation from structured data
+- RAG-powered document analysis & summarization
+- Custom templates with branding controls
+- Multi-format export (PDF, DOCX, HTML)
+- Enterprise-grade security & encryption
+- Role-based access management
 
-<section>
-    <h3>🎓 Proudly Certified & Always Learning:</h3>
-    <ul>
-        <li>AWS Certified Cloud Practitioner</li>
-        <li>Certified Kubernetes Administrator</li>
-        <li>AWS Certified Solutions Architect - Associate</li>
-        <li>Azure Fundamentals</li>
-        <li>On the path to achieving the Certified Kubernetes Security Specialist (CKS).</li>
-    </ul>
-</section>
+**Stack:** `Python` `LlamaIndex` `FastAPI` `PostgreSQL` `Docker`
 
-<section>
-    <h3>📚 Knowledge Sharing:</h3>
-    <p>I believe in the power of community and openly share my insights and experiences on Notion, spanning various tech domains.</p>
-</section>
+</td>
+</tr>
+</table>
 
-<section>
-    <h3>🔗 Let's Connect:</h3>
-    <p>Explore technology, discuss potential collaborations, or just say hello: <a href="omarelhachimi97@gmail.com">omarelhachimi97@gmail.com</a></p>
-    <p>LinkedIn: <a href="https://www.linkedin.com/in/omar-el-hachimi-b48286158/">[LinkedinProfil]</a></p>
-</section>
+<br>
 
-</body>
-</html>
+## Professional Experience
 
+```
+┌──────────────────────────────────────────────────────────────────────────────────┐
+│  2023 – NOW    GENERATIVE AI ENGINEER         Crédit Lyonnais (LCL)              │
+│                ─────────────────────────────────────────────────────────────     │
+│                Leading AI4IT initiative. Architecting sovereign GenAI            │
+│                platform. RAG pipelines, LLM orchestration, EU AI ACT             │
+│                compliance. Serving 90+ teams organization-wide.                  │
+├──────────────────────────────────────────────────────────────────────────────────┤
+│  2022 – 2023   DEVOPS ENGINEER                SoLocal                            │
+│                ─────────────────────────────────────────────────────────────     │
+│                Kubernetes infrastructure & BigQuery data pipelines.              │
+│                CI/CD automation, Prometheus/Grafana observability,               │
+│                infrastructure-as-code with Terraform.                            │
+├──────────────────────────────────────────────────────────────────────────────────┤
+│  2020 – 2022   BACKEND ENGINEER               Orange                             │
+│                ─────────────────────────────────────────────────────────────     │
+│                Cloud migration initiatives & event-driven architectures.         │
+│                High-throughput microservices for telecom workloads.              │
+│                Kafka streaming, Spring Boot services.                            │
+├──────────────────────────────────────────────────────────────────────────────────┤
+│  2018 – 2020   FULL STACK DEVELOPER           Worldline                          │
+│                ─────────────────────────────────────────────────────────────     │
+│                ETL pipelines & data lake architecture. Reporting systems         │
+│                and dashboards for financial transaction analytics.               │
+└──────────────────────────────────────────────────────────────────────────────────┘
+```
 
-<h3 align="left">💻 Languages and Tools:</h3>
-<p align="left">
-<!-- Icons of languages and tools -->
-</p>
+<br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OM-EL&show_icons=true&locale=en&layout=compact" alt="OM-EL" /></p>
+## Technical Expertise
+
+### Generative AI & Machine Learning
+
+```
+FRAMEWORKS          LangChain · LlamaIndex · CrewAI · Haystack · Semantic Kernel
+MODEL PROVIDERS     OpenAI · AWS Bedrock · Vertex AI · Azure OpenAI · Anthropic · Mistral
+VECTOR DATABASES    ChromaDB · Pinecone · Weaviate · Qdrant · Colpali
+TECHNIQUES          RAG · Prompt Engineering · Fine-tuning · Agents · Function Calling
+EVALUATION          Langsmith · Langfuse · DeepEval · Ragas · Phoenix
+SAFETY              Guardrails AI · NeMo Guardrails · Content Filtering · PII Detection
+```
+
+### Cloud & Infrastructure
+
+```
+PLATFORMS           AWS · Google Cloud · Microsoft Azure
+CONTAINERS          Kubernetes · Docker · Helm · Kustomize
+INFRASTRUCTURE      Terraform · Pulumi · CloudFormation · Crossplane
+CI/CD               ArgoCD · GitLab CI · GitHub Actions · Jenkins · Tekton
+OBSERVABILITY       Prometheus · Grafana · ELK Stack · Datadog · OpenTelemetry
+NETWORKING          Istio · Nginx · Traefik · Cert-Manager
+```
+
+### Software Development
+
+```
+LANGUAGES           Python · Java · JavaScript · TypeScript · Go · Solidity
+BACKEND             FastAPI · Spring Boot · Node.js · Django · Flask
+DATABASES           PostgreSQL · MongoDB · Redis · BigQuery · Snowflake · DynamoDB
+MESSAGING           Apache Kafka · RabbitMQ · AWS SQS · Google Pub/Sub
+TESTING             Pytest · JUnit · Jest · Locust · k6
+```
+
+### Security & Governance
+
+```
+SECRETS             HashiCorp Vault · AWS Secrets Manager · SOPS
+POLICY              Open Policy Agent · Kyverno · Sentinel · Falco
+CODE ANALYSIS       SonarQube · Fortify · Trivy · Snyk · Checkov
+COMPLIANCE          CIS Benchmarks · SOC2 · GDPR · EU AI ACT · ISO 27001
+IDENTITY            Keycloak · OAuth2 · OIDC · SAML
+```
+
+<br>
+
+## Certifications
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                 │
+│   KUBERNETES                                                                    │
+│   ├── CKA    Certified Kubernetes Administrator                                 │
+│   └── CKS    Certified Kubernetes Security Specialist                           │
+│                                                                                 │
+│   AMAZON WEB SERVICES                                                           │
+│   ├── AWS Solutions Architect – Associate                                       │
+│   ├── AWS Machine Learning Engineer – Associate                                 │
+│   └── AWS Cloud Practitioner                                                    │
+│                                                                                 │
+│   AI & GOVERNANCE                                                               │
+│   ├── IAPP AI Governance Professional (AIGP)                                    │
+│   └── GitHub Copilot Certified                                                  │
+│                                                                                 │
+│   BLOCKCHAIN                                                                    │
+│   └── Alyra Blockchain Developer                                                │
+│                                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+## Education
+
+```
+POLYTECH TOURS                                                         2016 – 2019
+Engineering Degree in Information Systems
+├── Software Engineering & Architecture
+├── Distributed Systems & Cloud Computing
+└── Data Management & Analytics
+
+CLASSES PRÉPARATOIRES AUX GRANDES ÉCOLES                               2014 – 2016
+Mathematics & Physics (MPSI/MP)
+├── Advanced Mathematics
+├── Theoretical Physics
+└── Competitive Examination Preparation
+```
+
+<br>
+
+## Areas of Interest
+
+```
+Enterprise AI Architecture    │    RAG System Design         │    AI Governance & Compliance
+LLM Orchestration            │    Vector Search             │    MLOps & LLMOps
+Cloud-Native Development     │    Platform Engineering      │    Developer Experience
+```
+
+<br>
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+Open to discussions about **enterprise AI**, **RAG architectures**, **AI governance**, and **cloud-native solutions**.
+
+**[oelhachi@gmail.com](mailto:oelhachi@gmail.com)**
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=OM-EL&show_icons=true&theme=default&hide_border=true&hide_title=true&icon_color=000&text_color=000&bg_color=fff" alt="GitHub Stats" />
+
+<br>
+
+```
+─────────────────────────────────────────────────────────────────────────────────
+                              © 2024 Omar EL HACHIMI
+─────────────────────────────────────────────────────────────────────────────────
+```
+
+</div>

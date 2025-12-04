@@ -1,123 +1,143 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     🚀 OMAR EL HACHIMI - GENERATIVE AI ENGINEER
-     ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 
+  ╔══════════════════════════════════════════════════════════════════════════════╗
+  ║                                                                              ║
+  ║   ██████╗ ███╗   ███╗ █████╗ ██████╗     ███████╗██╗         ██╗  ██╗        ║
+  ║  ██╔═══██╗████╗ ████║██╔══██╗██╔══██╗    ██╔════╝██║         ██║  ██║        ║
+  ║  ██║   ██║██╔████╔██║███████║██████╔╝    █████╗  ██║         ███████║        ║
+  ║  ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗    ██╔══╝  ██║         ██╔══██║        ║
+  ║  ╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║    ███████╗███████╗    ██║  ██║        ║
+  ║   ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚══════╝╚══════╝    ╚═╝  ╚═╝        ║
+  ║                                                                              ║
+  ║              🤖 GENERATIVE AI ENGINEER | PARIS 🇫🇷                           ║
+  ║                                                                              ║
+  ╚══════════════════════════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
 
-<!-- ANIMATED WAVE HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&animation=fadeIn"/>
+<!-- ANIMATED HEADER BANNER - VENOM EFFECT -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=OMAR%20EL%20HACHIMI&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=𝙶𝚎𝚗𝚎𝚛𝚊𝚝𝚒𝚟��%20𝙰𝙸%20𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛%20%7C%20𝙿𝚊𝚛𝚒𝚜%20��🇷&descSize=20&descAlignY=60&descAlign=50" width="100%"/>
 
-<!-- ANIMATED TYPING SVG - Multiple Roles -->
-<a href="https://github.com/OM-EL">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+Omar+EL+HACHIMI;%F0%9F%A4%96+Generative+AI+Engineer+%40+LCL;%F0%9F%8F%97%EF%B8%8F+Building+AI+for+90%2B+Teams" alt="Typing SVG" />
+<!-- ANIMATED TYPING -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%E2%9A%A1+Building+Sovereign+AI+for+Banking;%F0%9F%8F%97%EF%B8%8F+AI4IT+Initiative+%7C+90%2B+Teams+Served;%F0%9F%9B%A1%EF%B8%8F+EU+AI+ACT+Compliant+%7C+Enterprise+Grade;%F0%9F%94%AE+From+LLMs+to+Production+in+Weeks" alt="Typing SVG" />
 </a>
 
-<!-- PROFILE VIEWS + SOCIAL BADGES -->
 <br/>
+
+<!-- BADGES ROW -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=OM-EL&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/OM-EL?style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github&label=Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=OM-EL&style=for-the-badge&color=00d9ff&label=VISITORS"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/OM-EL?style=for-the-badge&color=00d9ff&labelColor=0d1117&logo=github"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/EXPERIENCE-7%2B%20YEARS-00d9ff?style=for-the-badge&labelColor=0d1117"/>
 </p>
 
 <!-- QUICK LINKS -->
 <p>
   <a href="https://www.linkedin.com/in/omar-el-hachimi-b48286158/">
-    <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="mailto:oelhachi@gmail.com">
-    <img src="https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://gen-report.duckdns.org/">
-    <img src="https://img.shields.io/badge/-KASTOR.AI-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🚀%20Kastor.AI-7C3AED?style=for-the-badge"/>
   </a>
 </p>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     🐍 CONTRIBUTION SNAKE ANIMATION
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
+<!-- SNAKE ANIMATION -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     👤 ABOUT ME - COMPACT & IMPACTFUL
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
+<!-- ABOUT SECTION -->
 <br/>
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-## ⚡ About
+```yaml
+name: Omar EL HACHIMI
+located_in: Paris, France 🇫🇷
+current_role: Generative AI Engineer
+company: Crédit Lyonnais (LCL)
 
-```typescript
-const omar: Engineer = {
-  location: "Paris 🇫🇷",
-  role: "Generative AI Engineer",
-  company: "Crédit Lyonnais (LCL)",
-  experience: "7+ years",
-  
-  currentMission: {
-    name: "AI4IT Initiative",
-    impact: "90+ internal teams",
-    focus: "Sovereign GenAI Platform"
-  },
-  
-  expertise: [
-    "RAG & Vector Databases",
-    "LLM Orchestration",
-    "AI Governance (EU AI ACT)",
-    "Cloud-Native Architecture"
-  ]
-};
+mission: |
+  Democratizing AI for enterprise teams while 
+  maintaining banking-grade security and 
+  regulatory compliance.
+
+current_project:
+  name: AI4IT Initiative
+  impact: 90+ teams served
+  description: Sovereign GenAI Platform
+
+expertise:
+  - RAG Systems & Vector DBs
+  - LLM Orchestration (LangChain, LlamaIndex)
+  - AI Governance (EU AI ACT)
+  - Cloud-Native Architecture (K8s, AWS, GCP)
+
+fun_fact: |
+  I believe AI should empower, not complicate.
 ```
-
-<br/>
-
-> *"AI should empower, not complicate."*
-
-I architect **sovereign AI platforms** that bring GenAI capabilities to **banking** while maintaining **regulatory compliance** and **enterprise-grade security**.
 
 <br clear="both"/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     🏆 GITHUB TROPHIES
-     ═══════════════════════════════════════════════════════════════════════════ -->
+---
 
+<!-- TROPHIES -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OM-EL&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=OM-EL&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     🚀 FEATURED PROJECTS
-     ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- FEATURED PROJECTS -->
 
-## 🎯 Featured Projects
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/>
+  &nbsp;What I'm Building
+</h2>
 
 <div align="center">
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏦 AI4IT Platform
-<p align="center">
-  <img src="https://img.shields.io/badge/🚀_PRODUCTION-success?style=flat-square"/>
-  <img src="https://img.shields.io/badge/90%2B_Teams-blue?style=flat-square"/>
-</p>
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Classical%20Building.png" width="25"/>
+  AI4IT Platform
+</h3>
+
+<div align="center">
+  
+[![Production](https://img.shields.io/badge/🚀_PRODUCTION-00d9ff?style=flat-square)](#)
+[![Teams](https://img.shields.io/badge/90%2B_Teams-7C3AED?style=flat-square)](#)
+
+</div>
 
 **Enterprise GenAI for Banking**
 
-✦ Custom GPT Builder (no-code)  
-✦ RAG: Confluence, Jira, SharePoint  
-✦ Text-to-SQL Dashboards  
-✦ K8sGPT & CVE Automation  
-✦ EU AI ACT Compliant  
+```
+╔══════════════════════════════════╗
+║  🔐 Sovereign Custom GPTs        ║
+║  �� RAG: Confluence, Jira, SPT   ║
+║  📊 Text-to-SQL Dashboards       ║  
+║  🛡️ EU AI ACT Compliant          ║
+║  🤖 K8sGPT & CVE Automation      ║
+╚══════════════════════════════════╝
+```
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,kubernetes,aws,docker&theme=dark"/>
@@ -126,181 +146,223 @@ I architect **sovereign AI platforms** that bring GenAI capabilities to **bankin
 </td>
 <td width="50%" valign="top">
 
-### 🎨 Kastor.AI
-<p align="center">
-  <a href="https://gen-report.duckdns.org/">
-    <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-8B5CF6?style=flat-square"/>
-  </a>
-</p>
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="25"/>
+  Kastor.AI
+</h3>
+
+<div align="center">
+  
+[![Live](https://img.shields.io/badge/🌐_LIVE-00d9ff?style=flat-square)](https://gen-report.duckdns.org/)
+[![Demo](https://img.shields.io/badge/Try_Demo-7C3AED?style=flat-square)](https://gen-report.duckdns.org/)
+
+</div>
 
 **AI Report Generator**
 
-✦ Upload data → Get reports  
-✦ RAG-powered analysis  
-✦ PDF, DOCX, HTML export  
-✦ Custom branding  
-✦ Enterprise-grade security  
+```
+╔══════════════════════════════════╗
+║  📤 Upload → Instant Reports     ║
+║  🧠 RAG-Powered Analysis         ║
+║  📄 PDF, DOCX, HTML Export       ║
+║  🎨 Custom Branding              ║
+║  🔒 Enterprise Security          ║
+╚══════════════════════════════════╝
+```
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,fastapi,postgres,redis&theme=dark"/>
 </p>
 
 <p align="center">
-  <a href="https://gen-report.duckdns.org/"><b>👉 Try the Demo</b></a>
+  <a href="https://gen-report.duckdns.org/"><b>👉 Try the Live Demo</b></a>
 </p>
 
 </td>
 </tr>
 </table>
+
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     📊 CAREER JOURNEY - TIMELINE
-     ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- CAREER TIMELINE -->
 
-## 📈 Journey
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25"/>
+  &nbsp;Career Journey
+</h2>
 
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#58A6FF', 'primaryTextColor': '#fff', 'primaryBorderColor': '#30363d', 'lineColor': '#58A6FF', 'secondaryColor': '#21262d', 'tertiaryColor': '#161b22'}}}%%
-timeline
-    title Career Evolution
-    2016-2019 : 🎓 Polytech Tours
-             : Engineering Degree
-    2018-2020 : 💳 Worldline
-             : Full Stack Developer
-             : ETL & Financial Systems
-    2020-2022 : 📱 Orange
-             : Backend Engineer
-             : Cloud Migration
-    2022-2023 : 📍 SoLocal
-             : DevOps Engineer
-             : K8s & BigQuery
-    2023-Now  : 🏦 LCL (Crédit Lyonnais)
-             : GenAI Engineer
-             : AI4IT Lead • 90+ Teams
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                 │
+│    2016-2019        2018-2020        2020-2022        2022-2023        2023→    │
+│        │                │                │                │              │      │
+│        ▼                ▼                ▼                ▼              ▼      │
+│    ┌───────┐       ┌─────────┐      ┌────────┐      ┌─────────┐    ┌─────────┐  │
+│    │  🎓   │       │   💳    │      │   📱   │      │   📍    │    │   🏦    │  │
+│    │Polytech│──────│Worldline│──────│ Orange │──────│ SoLocal │────│   LCL   │  │
+│    │ Tours │       │Full Stack│     │Backend │      │ DevOps  │    │ GenAI   │  │
+│    └───────┘       └─────────┘      └────────┘      └─────────┘    └─────────┘  │
+│                                                                                 │
+│    Engineering      ETL &         Cloud          K8s &         AI4IT Lead      │
+│      Degree       Financial     Migration      BigQuery      90+ Teams         │
+│                    Systems                                                      │
+│                                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────┘
 ```
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     🛠️ TECH STACK - SKILL ICONS
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 🤖 AI & Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark"/>
-  <br/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-5A29E4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bedrock-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge"/>
-</p>
-
-### ☁️ Cloud & Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,githubactions&theme=dark"/>
-</p>
-
-### 💻 Development
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,fastapi,react,postgres,kafka,redis,git&theme=dark"/>
-</p>
-
-### 🔐 Security & Governance
-<p>
-  <img src="https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OPA-7D9AAA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/EU_AI_ACT-003399?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-</p>
-
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     🏅 CERTIFICATIONS
-     ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- TECH STACK -->
 
-## 🏅 Certifications
-
-<div align="center">
-<p>
-  <img src="https://img.shields.io/badge/CKA-Certified_Kubernetes_Admin-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CKS-Certified_Kubernetes_Security-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-ML_Engineer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/IAPP-AI_Governance_Professional-00A4BD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub-Copilot_Certified-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Alyra-Blockchain_Certified-6B5B95?style=for-the-badge"/>
-</p>
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     📊 GITHUB STATISTICS DASHBOARD
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"/>
+  &nbsp;Tech Arsenal
+</h2>
 
 <div align="center">
 
-<!-- Stats Cards Row -->
-<p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=OM-EL&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=OM-EL&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
-</p>
+<table>
+<tr>
+<td align="center" width="33%">
 
-<!-- Languages Card -->
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OM-EL&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<h4>🤖 AI & LLM</h4>
 
-<!-- Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=OM-EL&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     💬 CONNECT
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 💬 Let's Connect
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark"/>
 
 <br/><br/>
 
-**Open to discussing Enterprise AI • RAG Architectures • AI Governance • Cloud-Native**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Bedrock](https://img.shields.io/badge/Bedrock-FF9900?style=flat-square&logo=amazon&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-00d9ff?style=flat-square)
+
+</td>
+<td align="center" width="33%">
+
+<h4>☁️ Cloud & DevOps</h4>
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform&theme=dark"/>
+
+<br/><br/>
+
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+<h4>💻 Development</h4>
+
+<img src="https://skillicons.dev/icons?i=fastapi,react,postgres,kafka,redis&theme=dark"/>
+
+<br/><br/>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- CERTIFICATIONS -->
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="25"/>
+  &nbsp;Certifications
+</h2>
+
+<div align="center">
+
+| Kubernetes | AWS | AI & Governance |
+|:----------:|:---:|:---------------:|
+| ![CKA](https://img.shields.io/badge/CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![SA](https://img.shields.io/badge/Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![AIGP](https://img.shields.io/badge/IAPP_AIGP-00A4BD?style=for-the-badge) |
+| ![CKS](https://img.shields.io/badge/CKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![ML](https://img.shields.io/badge/ML_Engineer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Copilot](https://img.shields.io/badge/GitHub_Copilot-000?style=for-the-badge&logo=github) |
+
+<br/>
+
+![Alyra](https://img.shields.io/badge/Alyra_Blockchain-6B5B95?style=for-the-badge)
+
+</div>
+
+---
+
+<!-- GITHUB STATS -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="25"/>
+  &nbsp;GitHub Analytics
+</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=OM-EL&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=OM-EL&theme=react&hide_border=true&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="Streak"/>
+
+<br/>
+
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OM-EL&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9" alt="Languages"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=OM-EL&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=true" alt="Activity Graph"/>
+
+</div>
+
+---
+
+<!-- CONNECT SECTION -->
+
+<div align="center">
+
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30"/>
+  &nbsp;Let's Connect
+</h2>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" width="70%"/>
+
+<br/><br/>
+
+**Open to discussing**
+
+`Enterprise AI` • `RAG Architectures` • `AI Governance` • `Cloud-Native` • `LLM Orchestration`
 
 <br/>
 
 <a href="https://www.linkedin.com/in/omar-el-hachimi-b48286158/">
-  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;&nbsp;
 <a href="mailto:oelhachi@gmail.com">
-  <img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://gen-report.duckdns.org/">
+  <img src="https://img.shields.io/badge/Try_Kastor.AI-7C3AED?style=for-the-badge&logo=rocket&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer"/>
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
 
-<sub>⭐ From <a href="https://github.com/OM-EL">OM-EL</a> with 💙</sub>
+<sub>
+  ⭐ Built with passion by <a href="https://github.com/OM-EL">Omar EL HACHIMI</a>
+</sub>
 
 </div>

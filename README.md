@@ -49,38 +49,6 @@ class OmarElHachimi:
 
 ---
 
-<!-- SNAKE ANIMATION -->
-<div align="center">
-  <h2>🐍 My Contributions</h2>
-  <br>
-  <img src="https://raw.githubusercontent.com/OM-EL/OM-EL/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-<!-- GITHUB STATS -->
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <a href="https://github.com/OM-EL">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OM-EL&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OM-EL&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OM-EL&theme=algolia&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<!-- TROPHIES -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=OM-EL&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1"/>
-  </a>
-</p>
-
----
-
 <!-- TECH STACK -->
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
@@ -264,18 +232,6 @@ timeline
 </p>
 
 ---
-
-<!-- QUOTE -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20build%20it.&author=Alan%20Kay"/>
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OM-EL&theme=react-dark&hide_border=true&area=true" width="100%"/>
-</p>
 
 <!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=120&section=footer"/>
